@@ -67,7 +67,7 @@ body{
 .aba-conteudo-titulo-principal{
     text-align: justify;
     font-size: 28px;
-    
+
 }
 @media screen and (min-width: 768px) {
     .botoes {
@@ -83,7 +83,7 @@ body{
 }
 
 .ativo {
-    background-color: aqua;
+    background-color: rgb(255, 195, 225);
     border-bottom: #ffffff;
 }
 }
